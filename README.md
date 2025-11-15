@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 What's Up? I'm Niranjana!</h1>
 
-<!--
-**Niranjana1009/Niranjana1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h3 align="center">💻 Student Developer | Aspiring Full-Stack Engineer | Problem-Solver</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Turning caffeine, curiosity, and chaos into code.  
+  Currently learning MERN and Java — one bug at a time 😄
+</p>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,py" height="60" alt="stack icons" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind,git,github,vscode" height="60" alt="tools icons" />
+</div>
+
+###
+
+<div align="center">
+  <!-- LinkedIn -->
+  <a href="[YOUR_LINKEDIN_URL_HERE](https://www.linkedin.com/in/niranjana-devi-p-c-7187482b7/)" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Niranjana1009&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=Niranjana1009&theme=dracula&margin-w=8&margin-h=8&no-frame=false" height="150" alt="trophy graph" />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yourusername/yourusername/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<h3>🚀 About Me</h3>
+
+- 🎓 IT Student (Graduating 2027)  
+- 🧩 Passionate about Full-Stack Development and Java  
+- 🌱 Working on: **Smart Job Application Tracker (MERN + ATS)**     
+- 🔥 LeetCode 300+ | GFG 160 Days Challenge  
+- ✨ Motto: *Learn. Build. Fix. Repeat.*
+
+###
