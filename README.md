@@ -44,10 +44,10 @@
 
 <h3>🚀 About Me</h3>
 
-- 🎓 IT Student (Graduating 2027)  
-- 🧩 Passionate about Full-Stack Development and Coding  
-- 🌱 Working on: **Smart Job Application Tracker (MERN + ATS)**  
-- 🔥 LeetCode 300+ | GFG 160 Days Challenge
-- ✨ Motto: *Learn. Build. Fix. Repeat.*
+🎓 IT Student (Graduating 2027)  
+🧩 Passionate about Full-Stack Development and Coding  
+🌱 Working on: **Smart Job Application Tracker (MERN + ATS)**  
+🔥 LeetCode 300+ | GFG 160 Days Challenge
+✨ Motto: *Learn. Build. Fix. Repeat.*
 
 ###
