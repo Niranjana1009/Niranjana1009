@@ -6,7 +6,7 @@
 
 <p align="center">
   Turning caffeine, curiosity, and chaos into code.  
-  Currently learning MERN and Java — one bug at a time 😄
+  Currently learning MERN, Java, and ML — one bug at a time 😄
 </p>
 
 ###
@@ -14,15 +14,25 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,py" height="60" alt="stack icons" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind,git,github,vscode" height="60" alt="tools icons" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="60" alt="tools icons" />
 </div>
 
 ###
 
 <div align="center">
   <!-- LinkedIn -->
-  <a href="[YOUR_LINKEDIN_URL_HERE](https://www.linkedin.com/in/niranjana-devi-p-c-7187482b7/)" target="_blank">
+  <a href="https://www.linkedin.com/in/niranjana-devi-p-c-7187482b7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+
+  <!-- Twitter (optional) -->
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+
+  <!-- Discord (optional) -->
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
 
@@ -36,9 +46,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yourusername/yourusername/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niranjana1009/Niranjana1009/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niranjana1009/Niranjana1009/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Niranjana1009/Niranjana1009/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
@@ -46,9 +56,9 @@
 <h3>🚀 About Me</h3>
 
 - 🎓 IT Student (Graduating 2027)  
-- 🧩 Passionate about Full-Stack Development and Java  
-- 🌱 Working on: **Smart Job Application Tracker (MERN + ATS)**     
-- 🔥 LeetCode 300+ | GFG 160 Days Challenge  
+- 🧩 Passionate about Full-Stack Development and Coding  
+- 🌱 Working on: **Smart Job Application Tracker (MERN + ATS)**  
+- 🔥 LeetCode 300+ | GFG 160 Days Challenge
 - ✨ Motto: *Learn. Build. Fix. Repeat.*
 
 ###
